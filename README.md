@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(11 20, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(John Soto)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this project I had to create an application that displays a photo gallery of images and allows the user
+to navigate through the images. )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://js16aa.github.io/lesson6_javascript3/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to add and remove document nodes.)
+2. (How to access element content.)
+3. (id, tag name, class, name and selector.)
 
